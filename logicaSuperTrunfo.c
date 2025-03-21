@@ -122,42 +122,36 @@ int main() {
     
     if(populacao1 > populacao2){
         printf("\nPopulação dacidade: Carta 1 Venceu!!");
-            }
-    else{
+            } else{
         printf("\nPopulação da cidade: Carta 1 Perdeu!!");
             }
 
     if(area1 > area2){
         printf("\nÁrea: Carta 1 venceu!!");
-            }
-    else{
+            } else{
         printf("\nÁrea: Carta 1 Perdeu!!");
             }      
             
     if(pib1 > pib2){
         printf("\nPIB: Carta 1 venceu!!");
-            }
-    else{
+            } else{
         printf("\nPIB: Carta 1 Perdeu!!");
             }       
              
     if(pontosTuristicos1 > pontosTuristicos2){
         printf("\nPontos turisticos: Carta 1 venceu!!");
-            }
-    else{
+            } else{
         printf("\nPontos turisticos: Carta 1 Perdeu!!");
             }  
 
     if(densidade1 < densidade2){
         printf("\nDensidade populacional: Carta 1 venceu!!");
-            }
-    else{
+            } else{
         printf("\nDensidade populacional: Carta 1 Perdeu!!");
             }       
     if(pibpercapta1 > pibpercapta2){
         printf("\nPIB Per Capta: Carta 1 venceu!!\n");
-            }
-    else{
+            } else{
         printf("\nPIB Per Capta: Carta 1 Perdeu!!\n");
             }       
                   
@@ -170,42 +164,36 @@ int main() {
     
     if(populacao1 < populacao2){
         printf("\nPopulação: Carta 2 Venceu!!");
-            }
-    else{
+            } else{
         printf("\nPopulação: Carta 2 Perdeu!!");
             }
 
     if(area1 < area2){
         printf("\nÁrea: Carta 2 venceu!!");
-            }
-    else{
+            } else{
         printf("\nÁrea: Carta 2 Perdeu!!");
             }      
             
     if(pib1 < pib2){
         printf("\nPIB: Carta 2 venceu!!");
-            }
-    else{
+            } else{
         printf("\nPIB: Carta 2 Perdeu!!");
             }       
              
     if(pontosTuristicos1 < pontosTuristicos2){
         printf("\nPontos turisticos: Carta 2 venceu!!");
-            }
-    else{
+            } else{
         printf("\nPontos turisticos: Carta 2 Perdeu!!");
             }  
 
     if(densidade1 > densidade2){
         printf("\nDensidade populacional: Carta 2 venceu!!");
-            }
-    else{
+            } else{
         printf("\nDensidade populacional: Carta 2 Perdeu!!");
             }       
     if(pibpercapta1 < pibpercapta2){
         printf("\nPIB Per Capta: Carta 2 venceu!!\n");
-            }
-    else{
+            } else{
         printf("\nPIB Per Capta: Carta 2 Perdeu!!\n");
             } 
 
